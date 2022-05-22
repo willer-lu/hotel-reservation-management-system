@@ -1,6 +1,8 @@
 # hotel-reservation-management-system  
-This is a C language curriculum design completed in the spring semester of 2019~2020.  
-You can create this project with Visio Studio 2019.  
-Then add the txt files.  
-The system can complete login verification and password management, interface color change, room reservation and order and room information management and other main functions.  
-You can implement specific requirements by changing the text file.
+C语言课程设计  
+酒店预约管理系统    
+VS2019环境  
+文本文件是必要的，意义见其文件名    
+可以实现登录验证，密码管理，界面颜色变化，房间预订以及房间信息管理等功能  
+
+
